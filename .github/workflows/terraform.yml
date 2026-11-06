@@ -78,4 +78,3 @@ jobs:
         run: |
           test -f output/prod-app.txt
           cat output/prod-app.txt
-
